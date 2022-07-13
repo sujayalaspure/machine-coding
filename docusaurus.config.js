@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Machine Coding Challenges",
   tagline: "Some of the best MC challenges for you to solve",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://machine-coding-challenges.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -69,7 +69,7 @@ const config = {
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/alaspuresujay",
             label: "GitHub",
             position: "right",
           },
@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/alaspuresujay/machine-coding",
               },
             ],
           },

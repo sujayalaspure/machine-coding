@@ -1,47 +1,38 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Problems Intro
+## What is a Machine Coding Round?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Introduction
 
-## Getting Started
+Until recently, the general interview process for software engineers consisted of 2–3 rounds focused on problem-solving, data structures and algorithms, coupled with 1–2 rounds focused on checking the culture fit of the candidate. In the past few years, there has been a shift in approach with more and more companies adopting the machine coding round.
 
-Get started by **creating a new site**.
+> Flipkart, Uber, Swiggy, Ola, Cred, etc. are some of the top tech companies where the first onsite round is the machine coding round.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Format
 
-### What you'll need
+Machine coding round involves solving a design problem in a matter of a couple of hours. It requires [designing and coding a clean, modular and extensible solution](https://workat.tech/machine-coding/article/introduction-clean-code-software-design-principles-nwu4qqc63e09) based on a specific set of requirements. An example of a machine coding problem could be to [design a snake and ladder game](https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg) with certain requirements and constraints. This is generally followed by a code review process where an interviewer goes through the code and tries to understand the design decisions.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Expectations
 
-## Generate a new site
+Almost all the companies have similar judging criteria in the machine coding round. The expectations may vary based on seniority and also from company to company. These are the general expectations of a good solution:
 
-Generate a new Docusaurus site using the **classic template**.
+- Code should be working and demonstrable.
+- Code should be functionally correct.
+- Code should be modular and readable.
+- Separation of concerns should be addressed.
+- Code should easily accommodate new requirements with minimal changes.
+- There should be a main method from where the code could be easily testable.
+- A UI is generally not required.
 
-The classic template will automatically be added to your project after you run the command:
+Learn how to [match all the expectations in the machine coding round](https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo).
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+It is a pretty crucial round since most of the people get eliminated in this round. It is completely different from what everyone generally prepares for.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+[Learn More here](https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::info
+Article taken from [workat.tech](https://workat.tech/)
+:::

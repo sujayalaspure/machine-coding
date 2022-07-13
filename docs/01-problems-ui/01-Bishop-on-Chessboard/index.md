@@ -6,7 +6,9 @@ title: Bishop on Chessboard
 
 # Bishop on Chessboard
 
-Hello buddy Im still here
+:::info
+Hello buddy, Try to Solve it on your own before reading the solutions.
+:::
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
