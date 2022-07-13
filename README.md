@@ -1,0 +1,9 @@
+- intro
+- problems-basics/congratulations
+- problems-basics/create-a-blog-post
+- problems-basics/create-a-document
+- problems-basics/create-a-page
+- problems-basics/deploy-your-site
+- problems-basics/markdown-features
+- problems-ui/manage-docs-versions
+- problems-ui/translate-your-site
